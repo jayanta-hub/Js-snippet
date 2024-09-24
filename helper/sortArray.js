@@ -1,4 +1,4 @@
-Array.prototype.sortArry = function () {
+Array.prototype.sortArray = function () {
   const n = this.length;
 
   // Bubble Sort algorithm
